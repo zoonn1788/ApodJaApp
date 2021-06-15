@@ -1,1 +1,2 @@
-# privacy policy english
+# APOD Japanese Privacy Policy
+
