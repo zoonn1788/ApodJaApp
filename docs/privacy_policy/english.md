@@ -37,4 +37,4 @@ The contents of this policy may be changed at any time without notifying the use
 ## 7. Contact Us
 If you have any questions or suggestions regarding this privacy policy, please contact us at [This email address](mailto:zoonnapps@gmail.com).
 
-##### date of issue: June 16 2021.
+##### Last modified: June 16 2021.
