@@ -21,6 +21,7 @@ In this application, the authority of the following application is set.
 
 #### Full access to the network
 - I am using it to use internet access.
+
 #### Storage (reading USB storage content, changing or deleting USB storage content)
 - It is used to save the information acquired by Internet access in the storage.
 
