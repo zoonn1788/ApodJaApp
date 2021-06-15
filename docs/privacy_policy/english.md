@@ -1,12 +1,12 @@
-# APOD Japanese Privacy Policy
-APOD Japanese (hereinafter referred to as "this application") is provided free of charge by Zoon Apps (hereinafter referred to as "us") and is intended to be used as it is.
+# APOD Ja Privacy Policy
+APOD Ja(hereinafter referred to as "this application") is provided free of charge by Zoon Apps (hereinafter referred to as "us") and is intended to be used as it is.
 
 ## 1. Basic policy
-This page is used to inform visitors about our policy regarding the collection, use and disclosure of personal information as you use the App.
-If you choose to use the App, you consent to the collection and use of information regarding this policy. The collected personal information will be used for the provision and improvement of this application. We will not disclose or provide personal information to third parties except as described in this privacy policy (hereinafter referred to as this policy).
+This page is used to inform visitors about our policy regarding the collection, use and disclosure of personal information as you use this application.
+If you choose to use this application, you consent to the collection and use of information regarding this policy. The collected personal information will be used for the provision and improvement of this application. We will not disclose or provide personal information to third parties except as described in this privacy policy (hereinafter referred to as this policy).
 
 ## 2. About the access analysis tool used by this application
-This app uses the access analysis tool "Google Analytics for Firebase" by Google to understand the error status of the app.
+This application uses the access analysis tool "Google Analytics for Firebase" by Google to analysis the error status of this application.
 This Google Analytics for Firebase uses cookies to collect traffic data.
 This traffic data is collected anonymously and is not personally identifiable.
 This function can refuse collection by disabling cookies, so please check the settings of your browser.
