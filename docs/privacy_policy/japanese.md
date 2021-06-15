@@ -11,12 +11,11 @@ APOD 日本語（以下本アプリ）は、Zoonn Apps（以下私たち）に�
 このトラフィックデータは匿名で収集されており、個人を特定するものではありません。
 この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
 
-この規約に関して
-	Firebase Analtytics （Goolge Inc.) 
-	[Firebaseヘルプ](https://support.google.com/firebase/answer/6318039?hl=ja)
-	https://support.google.com/firebase/answer/6318039?hl=ja
-	https://firebase.google.com/policies/analytics/?hl=ja
+#### この規約に関して Firebase Analtytics （Goolge Inc.) 
+[Firebaseヘルプ データの共有とリンク設定 > データ収集](https://support.google.com/firebase/answer/6318039?hl=ja)
 
+[Firebaseサポート Google Analytics for Firebase Use Policy](https://firebase.google.com/policies/analytics/?hl=ja)
+	
 ## 3.アプリの権限と利用目的
 本アプリでは、次のアプリの権限を設定しています。
 
