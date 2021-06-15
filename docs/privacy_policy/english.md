@@ -34,7 +34,7 @@ This application contains links to other sites. Selecting a link will take you t
 The contents of this policy may be changed at any time without notifying the user, except for laws and regulations and other matters specified otherwise in this policy. Therefore, we recommend that you review this page regularly. We will inform you of any changes by posting a new privacy policy on this page. These changes shall take effect from the time they are posted on this page.
 
 ## 7. Contact Us
-If you have any questions or suggestions regarding this privacy policy, please contact us at [zoonnapps@gmail.com](mailto: zoonnapps@gmail.com).
+If you have any questions or suggestions regarding this privacy policy, please contact us [This email address](mailto:zoonnapps@gmail.com).
 
 
 
