@@ -12,7 +12,8 @@ APOD 日本語（以下本アプリ）は、Zoonn Apps（以下私たち）に�
 この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
 
 この規約に関して
-	Firebase Analtytics （Goolge Inc.）
+	Firebase Analtytics （Goolge Inc.) 
+	[Firebaseヘルプ](https://support.google.com/firebase/answer/6318039?hl=ja)
 	https://support.google.com/firebase/answer/6318039?hl=ja
 	https://firebase.google.com/policies/analytics/?hl=ja
 
